@@ -1946,6 +1946,28 @@ body {
   text-decoration: line-through;
   color: #767676;
 }
+.cid-rq6gg3Nbpi {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rq6gg3Nbpi .image-block {
+  margin: auto;
+}
+.cid-rq6gg3Nbpi figcaption {
+  position: relative;
+}
+.cid-rq6gg3Nbpi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rq6gg3Nbpi .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rpgt62bcjI {
   padding-top: 90px;
   padding-bottom: 90px;
